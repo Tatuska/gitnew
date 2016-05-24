@@ -1,2 +1,2 @@
 # gitnew
-new for course
+new for course of versionhantering
